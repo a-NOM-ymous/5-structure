@@ -1,0 +1,33 @@
+html {
+    background: black;
+    color: white;
+}
+
+body {
+    margin: 0px;
+} 
+
+.uw-header {
+    background-color: gold;
+    color: black;
+    padding: 15px;
+    list-style: square;
+}
+
+.link {
+    color: white;
+}
+
+.b-link {
+    color: gold;
+}
+
+.uw-main {
+    padding: 20px;
+}
+
+.uw-foot {
+    background-color: goldenrod;
+    padding: 15px;
+}
+
