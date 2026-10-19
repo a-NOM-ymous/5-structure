@@ -32,6 +32,29 @@ h1 {
     color: white
 }
 
+.a-link {
+    color: rgb(120, 96, 66)
+}
+
+.a-link:visited {
+    border:  1px dashed black;
+}
+
+.a-link:hover {
+    color: goldenrod;
+    font-size: 18px;
+}
+
+.a-link:active {
+    font-size: 40px;
+}
+
+.a-link:focus {
+    padding: 5px;
+}
+
+
+
 .v-body {
     background-color: beige;
     padding: 20px;
